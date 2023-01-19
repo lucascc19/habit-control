@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "Aplicação desenvolvida durante o evento NLW - Setup da Rocketseat",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "tsx watch src/server.ts"
